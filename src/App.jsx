@@ -147,6 +147,10 @@ function App() {
               <div className='shadow bg-green-100 mt-2 w-full'>
                   <div className='bg-yellow-600 text-xs leading-none py-1 text-center text-white' style={{width: "80%"}}>80%</div>
               </div>
+              <h2>TypeScript</h2>
+              <div className='shadow bg-green-100 mt-2 w-full'>
+                  <div className='bg-blue-900 text-xs leading-none py-1 text-center text-white' style={{width: "60%"}}>60%</div>
+              </div>
             </div>
           </div>
         </div>
